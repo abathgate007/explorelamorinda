@@ -9,8 +9,12 @@
             <img src="{{ . }}" alt="{{ $.Title }}">
           </div>
           {{ end }}
+          {{ if eq .Params.content_type "commentary" }}<p class="content-label">Commentary / Humor</p>{{ end }}
           <time datetime="{{ .Date.Format "2006-01-02" }}" class="blog-date">{{ .Date.Format "January 2, 2006" }}</time>
           <h1>{{ .Title }}</h1>
+          {{ $authorKey := .Params.author | default "explore-lamorinda" }}
+          {{ with (index .Site.Data.authors $authorKey) }}<p class="article-byline">By <a href="{{ .url }}">{{ .name }}</a></p>{{ end }}
+          {{ if eq .Params.content_type "commentary" }}<p class="commentary-note">This piece is commentary and humor, not reported observation. Specific details should not be treated as verified facts.</p>{{ end }}
           {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
         </header>
         

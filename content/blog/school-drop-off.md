@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "Surviving School Drop-Off Season: A Survival Guide"
 description: "8:15 AM. The minivans are circling. You know what time it is."
 date: 2026-02-10

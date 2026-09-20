@@ -1,9 +1,9 @@
 ---
-title: "The Lamorinda Blog"
-description: "Neighborhood musings, local observations, and gentle satire from the hills east of the tunnel"
-last_updated: 2026-05-19
+title: "Local Guides and Commentary"
+description: "Useful local guides, verified updates, and clearly labeled commentary from Lafayette, Moraga, and Orinda"
+last_updated: 2026-09-20
 ---
 
-Life in Lamorinda has its own rhythm — the morning BART rush, the afternoon school pickup chaos, the eternal debate about which coffee shop makes the best latte. This is where we celebrate the quirks, traditions, and everyday moments that make our little corner of the East Bay so wonderfully unique.
+This archive contains local guides and a small collection of clearly labeled humor and commentary. Commentary reflects a point of view; it should not be read as reported observation or evidence about a person, business, event, or community.
 
-Grab your reusable tote bag and settle in.
+Future reporting will prioritize useful questions, primary sources for changing facts, truthful dates, named authors or reviewers, and a clear path for corrections. See the [editorial policy](/editorial-policy/) for the publication standard.

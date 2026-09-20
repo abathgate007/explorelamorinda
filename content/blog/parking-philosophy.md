@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "The Philosophy of the Good Parking Spot"
 description: "An investigation into why we'll circle for ten minutes to save a two-minute walk"
 date: 2026-01-22

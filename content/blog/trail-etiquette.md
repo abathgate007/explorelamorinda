@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "The Unwritten Rules of Lamorinda Trail Etiquette"
 description: "Hikers, bikers, dog-walkers, and the delicate dance of right-of-way"
 date: 2026-02-25

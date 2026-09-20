@@ -19,6 +19,7 @@ const STATE_FILE = path.join(ROOT, '.test-state.json');
 const fails = [];
 const warns = [];
 const info = [];
+const APPROVED_REMOVED_URLS = 53;
 
 function ok(msg)   { info.push(`✓ ${msg}`); }
 function warn(msg) { warns.push(`! ${msg}`); }
@@ -199,13 +200,40 @@ if (!fs.existsSync(sitemap)) {
   ok(`sitemap.xml present with ${urlCount} URLs`);
   // drop check vs previous run
   const state = loadState();
-  if (state.sitemapUrls && urlCount < state.sitemapUrls * 0.9) {
-    fail(`sitemap URL count dropped sharply: ${state.sitemapUrls} -> ${urlCount}`);
+  if (state.sitemapUrls && urlCount < state.sitemapUrls - APPROVED_REMOVED_URLS - 2) {
+    fail(`sitemap URL count dropped beyond the approved cleanup: ${state.sitemapUrls} -> ${urlCount}`);
   }
   state.sitemapUrls = urlCount;
   state.htmlFiles = htmlFiles.length;
   state.lastRunAt = new Date().toISOString();
   saveState(state);
+}
+
+// ---------- 8. Trust-remediation checks ----------
+const requiredPages = [
+  'about/index.html',
+  'editorial-policy/index.html',
+  'contact/index.html',
+  'vlatka-bathgate/index.html',
+  'ask-vlatka/index.html',
+];
+for (const rel of requiredPages) {
+  if (!fs.existsSync(path.join(PUBLIC_DIR, rel))) fail(`required authority page missing: ${rel}`);
+}
+const retiredSlugs = [
+  'friday-awards-lunch-the-akron-flight',
+  'thursday-refugees-the-concert-itself',
+  'wednesday-the-fireworks-shell-arrives',
+  'friday-the-reservoir-lap-returns',
+];
+for (const slug of retiredSlugs) {
+  if (fs.existsSync(path.join(PUBLIC_DIR, 'blog', slug, 'index.html'))) {
+    fail(`retired synthetic post still generated: ${slug}`);
+  }
+}
+const generatedText = htmlFiles.map(f => fs.readFileSync(f, 'utf8')).join('\n');
+for (const claim of ['#1 Lamorinda Realtor', '250+ Homes Sold', '22+ Years Experience']) {
+  if (generatedText.includes(claim)) fail(`unsupported promotional claim remains: ${claim}`);
 }
 
 // ---------- Report ----------
