@@ -16,6 +16,11 @@
           {{ end }}
         </header>
         
+        {{ with .Params.reviewer }}
+        {{ $reviewer := index $.Site.Data.authors . }}
+        {{ with $reviewer }}<p class="content-reviewer">Reviewed by <a href="{{ .url }}">{{ .name }}</a>{{ with $.Params.last_updated }} on {{ dateFormat "January 2, 2006" . }}{{ end }}</p>{{ end }}
+        {{ end }}
+
         <div class="page-content">
           {{ .Content }}
         </div>

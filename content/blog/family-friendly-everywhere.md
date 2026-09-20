@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "The Family-Friendly Conspiracy: How Lamorinda Rigged the Whole Thing"
 description: "Spoiler alert: there are no bad neighborhoods here. It's suspiciously wholesome."
 date: 2026-03-14

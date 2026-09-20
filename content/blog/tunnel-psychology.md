@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "The Psychology of the Caldecott Tunnel"
 description: "Four bores and the existential dread that connects us all"
 date: 2026-02-18

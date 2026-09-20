@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "A Field Guide to Lamorinda Turkey Diplomacy"
 description: "When a 20-pound bird owns the crosswalk, you wait. That's just how it works here."
 date: 2026-01-08

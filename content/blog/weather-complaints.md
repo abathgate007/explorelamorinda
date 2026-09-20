@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "In Defense of Complaining About Lamorinda Weather"
 description: "Yes, it's perfect. No, we will not stop complaining about it."
 date: 2026-01-15

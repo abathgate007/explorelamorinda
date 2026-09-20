@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "An Anthropological Study of Lamorinda Nextdoor"
 description: "Where every coyote sighting is breaking news and firework debates run eternal"
 date: 2026-03-08

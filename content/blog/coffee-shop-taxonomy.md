@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "A Taxonomy of Lamorinda Coffee Shop Inhabitants"
 description: "A field guide to the recurring cast of every Lamorinda coffee shop — the laptop camper, the power-walker, the retired friends club, the mom group, the tourist, the regular. Which one are you?"
 date: 2026-02-03

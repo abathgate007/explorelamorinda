@@ -102,7 +102,7 @@
 {{- end -}}
 
 {{/* ---------- Person schema on /real-estate/ pages ---------- */}}
-{{- if hasPrefix .RelPermalink "/real-estate" -}}
+{{- if or (hasPrefix .RelPermalink "/real-estate") (hasPrefix .RelPermalink "/ask-vlatka") (eq .RelPermalink "/vlatka-bathgate/") -}}
   {{- with .Site.Data.authors.vlatka -}}
     {{- $person := dict
       "@context" "https://schema.org"
@@ -153,7 +153,7 @@
 
 {{/* ---------- Article schema for blog posts ---------- */}}
 {{- if and (eq .Section "blog") (not .IsNode) -}}
-  {{- $author := .Site.Data.authors.vlatka -}}
+  {{- $author := index .Site.Data.authors "explore-lamorinda" -}}
   {{- with .Params.author -}}
     {{- $maybe := index $.Site.Data.authors . -}}
     {{- if $maybe -}}{{- $author = $maybe -}}{{- end -}}
@@ -176,7 +176,7 @@
       "@id" $url
     )
     "author" (dict
-      "@type" "Person"
+      "@type" ($author.schemaType | default "Organization")
       "name" $author.name
       "url" (printf "%s%s" $base $author.url)
     )

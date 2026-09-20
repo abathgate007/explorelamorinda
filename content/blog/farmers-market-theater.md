@@ -1,4 +1,6 @@
 ---
+content_type: "commentary"
+author: "explore-lamorinda"
 title: "Saturday Morning Farmers Market Theater"
 description: "A weekly production featuring organic produce, reusable bags, and elaborate parking maneuvers"
 date: 2026-03-01

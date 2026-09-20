@@ -1,7 +1,7 @@
 ---
 title: "Lafayette"
 description: "Downtown dining, the reservoir, and small-town charm with easy BART access"
-last_updated: 2026-05-21
+last_updated: 2026-09-20
 faq:
   - q: "Is Lafayette, CA a good place to live?"
     a: "Lafayette consistently ranks among the best places to live in the East Bay. It combines top-rated schools (Acalanes Union High School District), a walkable downtown, BART access to San Francisco, and access to thousands of acres of open space. Crime is low, the community is engaged, and the small-town feel survives despite the town being just 30 minutes from downtown SF."
@@ -10,7 +10,7 @@ faq:
   - q: "What is the population of Lafayette, California?"
     a: "Lafayette's population is approximately 26,000 residents. It is the largest of the three Lamorinda towns but still small by Bay Area standards, with a strong family demographic and a high percentage of college-educated households."
   - q: "What high school do Lafayette kids attend?"
-    a: "Most Lafayette students attend Acalanes High School, with some neighborhoods feeding into Las Lomas High School. Both schools are part of the Acalanes Union High School District and rank in the top 5% of California public high schools. Students attend Stanley Middle School in grades 6–8 before high school."
+    a: "Most Lafayette students attend Acalanes High School, with some neighborhoods feeding into Las Lomas High School. Both schools are part of the Acalanes Union High School District. Families should compare current state data, programs, and district information directly. Students attend Stanley Middle School in grades 6–8 before high school."
   - q: "Is Lafayette walkable?"
     a: "Downtown Lafayette is genuinely walkable — Mt. Diablo Boulevard runs about a mile of restaurants, shops, and services where you can park once and stroll between stops. Most residential neighborhoods, however, are car-oriented suburban streets. Burton Valley is the most walkable residential area due to its flat terrain and sidewalks."
   - q: "What is there to do in Lafayette, CA?"
@@ -45,7 +45,7 @@ What makes Lafayette unusual for a Bay Area suburb is the density of its civic l
 
 Lafayette was settled in the 1840s by Elam Brown, a pioneer who acquired land here as part of the Rancho Acalanes grant. He named the settlement after the Marquis de Lafayette — the French aristocrat who fought alongside Washington in the American Revolution. (You'll find Lafayettes scattered across America; there are more than 40 U.S. places with the name. This one has perhaps the most pleasant setting.)
 
-For most of its first century, Lafayette was ranch and orchard country. Walnut trees, fruit trees, dairy cows, and a small downtown clustered around the road that became Mt. Diablo Boulevard. The opening of the original Caldecott Tunnel in 1937 began the slow shift from ranchland to suburb. BART arrived in 1973, the same year Lafayette incorporated as a city — and the population, which had been counted in the hundreds for a century, jumped to suburban scale.
+For most of its first century, Lafayette was ranch and orchard country. Walnut trees, fruit trees, dairy cows, and a small downtown clustered around the road that became Mt. Diablo Boulevard. The opening of the original Caldecott Tunnel in 1937 began the slow shift from ranchland to suburb. Lafayette incorporated as a city in 1968. BART service reached Lafayette in 1973, and and the population, which had been counted in the hundreds for a century, jumped to suburban scale.
 
 The town has resisted the temptation to overbuild. Downtown's height limits, the open-space designations across the hills, and the careful approach to new development are deliberate. Residents like that you can still see the ridgeline from the parking lot at Trader Joe's.
 
@@ -73,9 +73,9 @@ Lafayette offers the widest variety of neighborhoods in Lamorinda. Each has its 
 
 ## Schools
 
-Lafayette's schools are a major draw for families — they're consistently the #1 reason people cite when moving here. The town is served by two districts:
+Lafayette's schools are an important consideration for many families. School performance, programs, enrollment rules, and attendance boundaries can change, so buyers should verify current information directly with the relevant district. The town is served by two districts:
 
-- **[Lafayette School District](/schools/lafayette-school-district/)** (K-8) — Burton Valley, Happy Valley, Lafayette, and Springhill Elementary, plus Stanley Middle School. All five schools score in the top 5% of California.
+- **[Lafayette School District](/schools/lafayette-school-district/)** (K-8) — Burton Valley, Happy Valley, Lafayette, and Springhill Elementary, plus Stanley Middle School. Performance measures vary by year and source. Review current California School Dashboard data and district information rather than relying on a fixed ranking.
 - **[Acalanes Union High School District](/schools/acalanes-union-high-school-district/)** (9-12) — Most Lafayette students attend Acalanes High School, with some neighborhoods feeding into Las Lomas.
 
 Acalanes High School is the original district high school and has been Lafayette's flagship secondary school since 1940. Graduation rates exceed 97%. The athletic program is competitive; the arts and music programs are unusually strong for a public school of its size; and college placement is genuinely impressive — every year a handful of seniors place at UC Berkeley, Stanford, and the Ivy League.
@@ -109,7 +109,7 @@ These are just the most enduring favorites — Lafayette's dining scene rotates 
 
 ## Real Estate Snapshot
 
-Lafayette is the most expensive of the three Lamorinda towns on a price-per-square-foot basis, driven by the combination of school quality, BART access, and the walkable downtown. Median single-family prices typically run $1.6M–$2.4M, with Happy Valley and the better Burton Valley streets pushing well into $3M+ territory. Inventory is tight; well-priced homes routinely sell with multiple offers within a week.
+Lafayette is the most expensive of the three Lamorinda towns on a price-per-square-foot basis, driven by the combination of school quality, BART access, and the walkable downtown. Prices, inventory, and days on market vary materially by date, property, and neighborhood. Review a dated market source and property-specific comparable sales before making a decision.
 
 For a more detailed picture across all three towns, including monthly market updates and a buyer's checklist, see [Real Estate in Lamorinda](/real-estate/).
 
@@ -144,7 +144,7 @@ Lafayette consistently ranks among the best places to live in the East Bay. It c
 Lafayette to Embarcadero is roughly 35 minutes during off-peak hours on the Antioch line, and 40–45 minutes during peak commute. Lafayette is the second stop east of the Caldecott Tunnel after Orinda.
 
 **What high school do Lafayette kids attend?**
-Most Lafayette students attend Acalanes High School, with some neighborhoods feeding into Las Lomas High School. Both schools are part of the Acalanes Union High School District and rank in the top 5% of California public high schools.
+Most Lafayette students attend Acalanes High School, with some neighborhoods feeding into Las Lomas High School. Both schools are part of the Acalanes Union High School District. Families should compare current state data, programs, and district information directly.
 
 **Is Lafayette walkable?**
 Downtown Lafayette is genuinely walkable. Most residential neighborhoods are car-oriented suburban streets, though Burton Valley is the most walkable residential area due to its flat terrain and sidewalks.
