@@ -6,7 +6,7 @@ description: "Spoiler alert: there are no bad neighborhoods here. It's suspiciou
 date: 2026-03-14
 ---
 
-![Family enjoying outdoor activities together](/images/family-outdoor-activity.jpg)
+![Family walking together in a sunny East Bay park](/images/family-lamorinda-park.jpg)
 
 People moving to Lamorinda often ask: "Which neighborhoods are the most family-friendly?"
 
